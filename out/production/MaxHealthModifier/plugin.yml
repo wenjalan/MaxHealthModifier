@@ -1,0 +1,9 @@
+name: MaxHealthModifier
+version: 1.0
+author: wenjalan
+main: wenjalan.MaxHealthModifier
+api-version: 1.14
+commands:
+  setmaxhealth:
+    description: Sets the max health attribute of players
+    usage: /setmaxhealth -player [new max health]
